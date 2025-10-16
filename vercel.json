@@ -1,5 +1,6 @@
 {
   "rewrites": [
+    { "source": "/", "destination": "https://php-telegram-bot-ti41.onrender.com" },
     { "source": "/(.*)", "destination": "https://php-telegram-bot-ti41.onrender.com/$1" }
   ]
 }
